@@ -4,7 +4,7 @@ public class exercicio27{
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         int dia;
-        System.out.println("Digite odia: ");
+        System.out.println("Digite o dia: ");
         dia = leia.nextInt();
         switch (dia) {
             case 1:
